@@ -7,6 +7,9 @@ body {
     background-color: bisque;
 }
 
+.margin {
+  padding: 16px;
+}
 img {
     height: 10rem;
     border: solid 2px;
