@@ -2,9 +2,22 @@
   box-sizing: border-box;
 }
 
+#mainHeading {
+color: rgb(132, 108, 23);
+}
+
 body {
-    margin: 50px;
+    margin: 8px;
+    display: block;
     background-color: bisque;
+}
+
+.funParagraph {
+color: rgb(126, 22, 22);
+}
+
+#testP {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .margin {
